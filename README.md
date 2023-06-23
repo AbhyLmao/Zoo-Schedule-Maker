@@ -14,3 +14,4 @@ An application which will calculate a schedule for an entire day for a zoo. EWR 
 
 - MySQL Connector/J : required for database connection.
 
+˚ʚ♡ɞ˚
